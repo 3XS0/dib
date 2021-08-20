@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Installing RDP To Your System:" >&2
+printf "Installing RDP To Your System [ WwW.Dr-FarFar.CoM ]" >&2
 {
 sudo useradd -m LPTECH
 sudo adduser LPTECH sudo
