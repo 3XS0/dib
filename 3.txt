@@ -1,0 +1,1 @@
+{"success":true,"data":{"timesActivated":0,"timesActivatedMax":0,"remainingActivations":0,"lifetime":true}}
